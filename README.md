@@ -4,6 +4,12 @@ This is a simple style for writing a bachelor thesis in latex
 
 # INSTALLATION
 
+```
+git clone git://github.com/dummas/latex-vgtuef.git
+```
+
+Or just push {cloud} ZIP button on the top left corner
+
 # USAGE
 
 ```
@@ -47,5 +53,7 @@ Pt \> Parkinsono liga sergantis subjektas; \\
 \end{tabbing}
 
 \section{Įvadas. Užduoties analizė}
+
+\end{document}
 
 ```
